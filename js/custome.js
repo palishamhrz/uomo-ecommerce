@@ -20,7 +20,7 @@ $(document).ready(function(){
             },
             991:{
                 items:4,
-                nav:true,
+            
                 loop:false
             }
         }
